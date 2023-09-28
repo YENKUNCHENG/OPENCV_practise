@@ -1,0 +1,6 @@
+首先需要安裝Python以及opencv
+可以用命令安裝
+pip install opencv-python
+
+練習9需要下載mediapipe
+pip install mediapipe
